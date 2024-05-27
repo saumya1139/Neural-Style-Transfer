@@ -1,3 +1,5 @@
+Neural Style Transfer
+
 This tutorial uses deep learning to compose one image in the style of another image . This is known as neural style transfer and the technique is outlined in A Neural Algorithm of Artistic Style.
 
 Note: This tutorial demonstrates the original style-transfer algorithm. It optimizes the image content to a particular style. Modern approaches train a model to generate the stylized image directly (similar to CycleGAN). This approach is much faster (up to 1000x).
