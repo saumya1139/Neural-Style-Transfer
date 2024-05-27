@@ -64,3 +64,23 @@ This is implemented by optimizing the output image to match the content statisti
 
 
 
+<h3>Technology used is **TENSOR FLOW**</h3>
+
+
+
+
+
+
+
+![image](https://github.com/saumya1139/Neural-Style-Transfer/assets/160774057/5ca01235-b1af-4334-8331-aad330f4ea00)
+
+
+
+
+These are the source files for the guide and tutorials on tensorflow.org.
+
+To contribute to the TensorFlow documentation, please read CONTRIBUTING.md, the TensorFlow docs contributor guide, and the style guide.
+
+To file a docs issue, use the issue tracker in the tensorflow/tensorflow repo.
+
+And join the TensorFlow documentation contributors on the TensorFlow Forum.
