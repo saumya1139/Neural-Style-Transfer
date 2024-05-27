@@ -77,10 +77,7 @@ This is implemented by optimizing the output image to match the content statisti
 
 
 
-These are the source files for the guide and tutorials on tensorflow.org.
+TensorFlow is a free and open-source software library for machine learning and artificial intelligence.
 
-To contribute to the TensorFlow documentation, please read CONTRIBUTING.md, the TensorFlow docs contributor guide, and the style guide.
 
-To file a docs issue, use the issue tracker in the tensorflow/tensorflow repo.
-
-And join the TensorFlow documentation contributors on the TensorFlow Forum.
+TensorFlow can be used to develop models for various tasks, including natural language processing, image recognition, handwriting recognition, and different computational-based simulations such as partial differential equations.
