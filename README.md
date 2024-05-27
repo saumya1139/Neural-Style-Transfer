@@ -1,4 +1,4 @@
-*Neural Style Transfer*
+<h1>**Neural Style Transfer** </h1>
 
 This tutorial uses deep learning to compose one image in the style of another image . This is known as neural style transfer and the technique is outlined in A Neural Algorithm of Artistic Style.
 
@@ -9,3 +9,59 @@ For a simple application of style transfer with a pretrained model from TensorFl
 Neural style transfer is an optimization technique used to take two images—a content image and a style reference image (such as an artwork by a famous painter)—and blend them together so the output image looks like the content image, but “painted” in the style of the style reference image.
 
 This is implemented by optimizing the output image to match the content statistics of the content image and the style statistics of the style reference image. These statistics are extracted from the images using a convolutional network.
+
+
+
+
+
+
+
+![image](https://github.com/saumya1139/Neural-Style-Transfer/assets/160774057/fe22ef04-1d2b-403a-8b37-630ac8e2fe8b)  
+
+
+<h3>**Content Image**</h3>               
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![image](https://github.com/saumya1139/Neural-Style-Transfer/assets/160774057/61813be9-e0c6-4fe5-80bc-59e90decba2e)
+
+<h3>**Style Image**</h3>
+
+
+   
+
+
+
+
+
+![image](https://github.com/saumya1139/Neural-Style-Transfer/assets/160774057/bf5149cb-5810-4b90-804d-dbfcca9988dc)
+
+
+<h3>**Output Image**</h3>
+
+
+
+
+
+
